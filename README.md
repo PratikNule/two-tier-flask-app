@@ -128,4 +128,3 @@ docker run -d \
 
 ```
 
-Hello this is pratik and this is my project. 
